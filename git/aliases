@@ -1,1 +1,6 @@
-alias gs='git status'
+alias gp='git push origin HEAD'
+alias gc='git commit'
+alias gca='git commit -a'
+alias gco='git checkout'
+alias gs='git status' 
+alias gb='git branch'
