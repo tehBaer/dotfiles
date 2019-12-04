@@ -1,7 +1,10 @@
-
-alias ll='ls -FGlAhp'
-
 alias pip='pip3'
 alias python='python3'
 
-alias sbp='source ~/.bash_profile'
+alias reload='source ~/.bash_profile'
+
+#alias ll='ls -FGlAhp'
+
+alias ls='ls -h -G'
+alias l='ls -l'
+alias ll='ls -la'
