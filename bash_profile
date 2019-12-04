@@ -1,5 +1,2 @@
-source ~/.dotfiles/{aliases,git/aliases,git/completion}
-
-
-# Always list directory contents upon 'cd'
-cd() { builtin cd "$@"; ll; }
+source ~/.dotfiles/bashrc
+export BASH_SILENCE_DEPRECATION_WARNING=1
