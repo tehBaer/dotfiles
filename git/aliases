@@ -1,11 +1,17 @@
 alias gp='git push origin HEAD'
+
 alias gc='git commit'
 alias gca='git commit -a'
-alias gco='git checkout'
-alias gs='git status' 
-alias gb='git branch'
-alias gap='git add -p'
 alias gcm='git commit -m'
 
-# Undo the last commit(not pushed)
+alias gco='git checkout'
+
+alias gs='git status' 
+
+alias gb='git branch'
+
+alias gap='git add -p'
+alias gaa='git add -A'
+
+# Undo the last commit(unpushed)
 alias peel='git reset HEAD^'
