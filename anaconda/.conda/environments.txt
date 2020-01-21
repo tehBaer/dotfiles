@@ -1,0 +1,2 @@
+/usr/local/anaconda3
+/Users/brj/Documents/anaconda3
