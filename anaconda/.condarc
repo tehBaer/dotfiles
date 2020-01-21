@@ -1,4 +1,9 @@
 ssl_verify: true
 channels:
   - defaults
+
+
 auto_activate_base: false
+
+# Removes path from being shown
+env_prompt: '({name}) '
