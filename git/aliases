@@ -5,3 +5,7 @@ alias gco='git checkout'
 alias gs='git status' 
 alias gb='git branch'
 alias gap='git add -p'
+alias gcm='git commit -m'
+
+# Undo the last commit(not pushed)
+alias peel='git reset HEAD^'

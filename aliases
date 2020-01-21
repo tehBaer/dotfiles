@@ -8,3 +8,7 @@ alias reload='source ~/.bash_profile'
 alias ls='ls -h -G'
 alias l='ls -l'
 alias ll='ls -la'
+
+#Virtual Environments
+alias act='conda activate conda-env'
+alias deact='conda activate conda-env'
