@@ -1,5 +1,4 @@
-alias gp='git push origin HEAD'
-
+alias GP='git pull && git push'
 alias gc='git commit'
 alias gca='git commit -a'
 alias gcm='git commit -m'
@@ -9,6 +8,8 @@ alias gco='git checkout'
 alias gs='git status' 
 
 alias gb='git branch'
+
+alias gl='git log'
 
 alias gap='git add -p'
 alias gaa='git add -A'

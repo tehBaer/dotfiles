@@ -1,2 +1,2 @@
-alias act='conda activate /Users/brj/oneDrive/code/repos/datasyn/conda-env'
+alias act='conda activate /Users/brj/kode/datasyn/conda-env'
 alias deact='conda deactivate'
