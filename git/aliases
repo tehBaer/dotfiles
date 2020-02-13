@@ -1,4 +1,6 @@
-alias GP='git pull && git push'
+alias gp='git pull'
+alias gpgp='git pull && git push'
+
 alias gc='git commit'
 alias gca='git commit -a'
 alias gcm='git commit -m'
