@@ -13,11 +13,12 @@ alias gb='git branch'
 
 alias gl='git log'
 
+alias ga='git add'
 alias gap='git add -p'
 alias gaa='git add -A'
 
 # Undo the last commit(unpushed)
 alias peel='git reset HEAD^'
 
-# Stash everything except already added files
+# Stash unstaged changes
 alias clean='git stash --keep-index'
