@@ -1,5 +1,5 @@
 alias pip='pip3'
-alias python='python3'
+alias py='python3'
 
 alias reload='source ~/.bash_profile'
 
