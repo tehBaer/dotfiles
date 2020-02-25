@@ -1,0 +1,7 @@
+# Always list directory contents upon 'cd'
+cd() { builtin cd "$@"; ll; }
+
+# Add timestamps to commands
+export PROMPT_COMMAND="echo -n \$(date +%H:%M)\ "
+
+
