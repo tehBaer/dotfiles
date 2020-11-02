@@ -12,3 +12,5 @@ alias ll='ls -la'
 alias o.='open .'
 
 alias cd..='cd ..'
+
+alias gd="git diff"
