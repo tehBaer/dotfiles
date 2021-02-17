@@ -19,7 +19,10 @@ alias gp='git pull'
 alias gpgp='git pull && git push'
 
 # Undo the last commit(not pushed), keep changes
-alias grh='git reset HEAD^'
+alias grsh='git reset HEAD^'
+
+# Rebase x last commits
+alias grbh='git rebase HEAD~'
 
 alias gs='git status' 
 

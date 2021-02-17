@@ -1,2 +1,5 @@
 alias s.='start .'
+alias s='start'
 alias n='notepad'
+
+alias cdd='cd /d/'
