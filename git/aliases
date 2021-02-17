@@ -22,7 +22,9 @@ alias gpgp='git pull && git push'
 alias grsh='git reset HEAD^'
 
 # Rebase x last commits
-alias grbh='git rebase HEAD~'
+rebase(){
+	git rebase -i HEAD~"$1"
+}
 
 alias gs='git status' 
 
