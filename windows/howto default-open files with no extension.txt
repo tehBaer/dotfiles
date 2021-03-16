@@ -1,0 +1,7 @@
+from https://superuser.com/questions/13653/how-to-set-the-default-program-for-opening-files-without-an-extension-in-windows
+
+
+Run cmd with admin
+
+assoc .="No Extension"
+ftype "No Extension"="d:/Microsoft VS Code\Code.exe" "%1"

@@ -25,7 +25,7 @@ alias gs='git status'
 
 
 
-alias rename='git commit --amend'
+alias rename='git commit --amend -m"
 
 # Rebase x last commits
 rebase(){
