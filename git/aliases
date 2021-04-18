@@ -16,7 +16,11 @@ alias gd="git diff"
 alias gl='git log'
 
 alias gp='git pull'
+
+
 alias gpgp='git pull && git push'
+alias gaagcm='git add -A && git commit -m"
+
 
 # Undo the last commit(not pushed), keep changes
 alias grsh='git reset HEAD^'
