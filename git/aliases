@@ -27,14 +27,8 @@ alias grsh='git reset HEAD^'
 
 alias gs='git status' 
 
+alias rename='git commit --amend -m'
 
-
-alias rename='git commit --amend -m"
-
-# Rebase x last commits
-rebase(){
-	git rebase -i HEAD~"$1"
-}
 
 # Stash unstaged changes
 alias clean='git stash --keep-index'
