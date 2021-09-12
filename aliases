@@ -1,14 +1,16 @@
+alias cd..='cd ..'
+
+alias ls='ls -h -G'
+alias l='ls -l'
+alias ll='ls -la'
+#alias ll='ls -FGlAhp'
+
 alias pip='pip3'
 alias py='python3'
 
 alias reload='source ~/.bash_profile'
 
-#alias ll='ls -FGlAhp'
 
-alias ls='ls -h -G'
-alias l='ls -l'
-alias ll='ls -la'
 
-alias o.='open .'
 
-alias cd..='cd ..'
+

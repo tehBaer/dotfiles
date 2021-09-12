@@ -1,0 +1,14 @@
+alias s.='start .'
+alias s='start'
+
+alias n='notepad'
+
+alias cda='cd /a/'
+alias cdb='cd /b/'
+alias cdc='cd /c/'
+alias cdd='cd /d/'
+alias cde='cd /e/'
+alias cdf='cd /f/'
+alias cdg='cd /g/'
+alias cdh='cd /h/'
+
