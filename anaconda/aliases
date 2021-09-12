@@ -1,2 +1,0 @@
-alias act='conda activate ~/kode/datasyn/conda-env'
-alias deact='conda deactivate'
