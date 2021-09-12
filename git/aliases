@@ -20,13 +20,10 @@ alias gp='git pull'
 
 alias gs='git status' 
 
-<<<<<<< HEAD
 alias gb='git branch'
 alias gbr='git branch -r'
-=======
 alias gpgp='git pull && git push'
-alias gaagcm='git add -A && git commit -m"
->>>>>>> 1ad502b34b57a867c2980da71572e976beda7593
+alias gaacm='git add -A && git commit -m"
 
 
 # Undo the last commit(not pushed), keep changes
