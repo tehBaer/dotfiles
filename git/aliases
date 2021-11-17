@@ -18,12 +18,16 @@ alias gl='git log'
 
 alias gp='git pull'
 
+alias gpush='git push'
+alias gpush-u='git push --set-upstream origin master'
+
+
 alias gs='git status' 
 
 alias gb='git branch'
-alias gbr='git branch -r'
+alias gb-r='git branch -r'
 alias gpgp='git pull && git push'
-alias gaacm='git add -A && git commit -m'
+alias gaagcm='git add -A && git commit -m'
 
 
 # Undo the last commit(not pushed), keep changes
