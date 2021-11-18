@@ -1,11 +1,10 @@
-source ~/dotfiles/aliases
+source ~/dotfiles/aliases.txt
 source ~/dotfiles/bash_settings
 
-source ~/dotfiles/{git/aliases,git/completion}
-source ~/dotfiles/ubuntu/aliases
-source ~/dotfiles/mac/aliases
-source ~/dotfiles/windows/aliases
+source ~/dotfiles/{git/aliases,git/completion}.txt
+source ~/dotfiles/ubuntu/aliases.txt
+source ~/dotfiles/mac/aliases.txt
+source ~/dotfiles/windows/aliases.txt
+source ~/dotfiles/python/aliases.txt
 
-export PS1="\[\033[36m\]\u\[\033[m\]@\[\033[32m\]\h:\[\033[33;1m\]\w\[\033[m\]\$ "
-export CLICOLOR=1
-export LSCOLORS=ExFxBxDxCxegedabagacad
+source ~/dotfiles/styling.txt
