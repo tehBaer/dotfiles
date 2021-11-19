@@ -1,1 +1,1 @@
-export PATH="$PATH:/Library/Frameworks/Python.framework/Versions/3.8/bin"
+export PATH="$PATH:/Users/brj/Library/Python/3.8/bin"
