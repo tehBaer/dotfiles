@@ -1,1 +1,6 @@
 auto_activate_base: false
+channels:
+  - conda-forge
+  - conda-forge/label/cf201901
+  - defaults
+  - anaconda

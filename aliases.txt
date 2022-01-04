@@ -1,4 +1,6 @@
 alias cd..='cd ..'
+alias cd...='cd .. && cd ..'
+alias cd....='cd .. && cd .. && cd ..'
 
 alias ls='ls -h -G'
 alias l='ls -l'
