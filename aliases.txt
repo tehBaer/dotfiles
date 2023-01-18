@@ -7,9 +7,6 @@ alias l='ls -l'
 alias ll='ls -la'
 #alias ll='ls -FGlAhp'
 
-alias reload='source ~/.bash_profile'
+alias reload='source ~/.zshrc'
 
-
-
-
-
+alias conda-save='conda env export > environment.yml'
